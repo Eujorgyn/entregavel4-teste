@@ -1,0 +1,15 @@
+{
+  "name": "entregavel-1",
+  "version": "1.0.0",
+  "description": "Algoritmos fundamentais (primo, somatório, Fibonacci, MDC, Quicksort e contagem) com testes unitários em Jest",
+  "main": "funcoes/index.js",
+  "scripts": {
+    "start": "node entregavel_1/atividade.js",
+    "test": "jest"
+  },
+  "author": "Jorge Gabriel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
